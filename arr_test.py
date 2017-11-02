@@ -1,4 +1,7 @@
 '''
+I WON'T INCLUDE THIS ONE!!!
+
+
 arr = [-1,0,5,1,5,3,4,3]
 
 find index of the highest value in arr
