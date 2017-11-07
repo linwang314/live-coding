@@ -20,3 +20,4 @@ def min_max_diff(sample_arr):
 
 
 print(min_max_diff([6,15,2,3,1,4,5,6,7,21]))
+pritn(min_max_diff([1,23,4,5,6,7,8,9]))
