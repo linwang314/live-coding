@@ -2,7 +2,7 @@
 Given a phrase you need to return the number of words in the phrase.
 
 
-"The dogs jumps over the cat."
+"The dog jumps over the cat."
 answer = 6
 '''
 
