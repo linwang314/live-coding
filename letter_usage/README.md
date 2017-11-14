@@ -1,4 +1,4 @@
-<h1>How Many Words?</h1>
+<h1>Letter Usage</h1>
 
 <p>In this problem you will be given a string. Your string is a representation of a phrase. It can contain words, and spaces. You need to return a hashmap/dictionary that contains the number each character occurs in the original string.</p>
 
