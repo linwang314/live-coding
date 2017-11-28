@@ -1,5 +1,5 @@
 '''
-I WON'T INCLUDE THIS ONE!!!
+Live Coding Assignment
 
 
 arr = [-1,0,5,1,5,3,4,3]
