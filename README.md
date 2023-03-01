@@ -6,7 +6,7 @@
 
 <p>To truly practice students should follow the steps of a live coding session as defined by LaunchCode:</p>
 <ol>
-    <li>Gather Requirements/Clairfy Problem</li>
+    <li>Gather Requirements/Clarify Problem</li>
     <li>Break Problem Down</li>
     <li>Psuedocode</li>
     <li>Real Code</li>
